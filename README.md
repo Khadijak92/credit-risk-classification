@@ -9,11 +9,11 @@ The analysis went through several stages of the machine learning process, starti
 ## Results
 
 Machine Learning Model 1:
-. Accuracy: 98%
-. Precision for class 0: 0.96
-. Precision for class 1: 0.85
-. Recall for class 0: 0.99
-. Recall for class 1: 0.91
+- Accuracy: 98%
+- Precision for class 0: 0.96
+- Precision for class 1: 0.85
+- Recall for class 0: 0.99
+- Recall for class 1: 0.91
 
 
 ## Summary
